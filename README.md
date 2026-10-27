@@ -11,6 +11,7 @@ This project analyzes sales and profit performance using an interactive Excel da
 - Data analysis and visualization
 
 ## Dashboard Preview
+![Sales and Profit Dashboard](dashboard.png)
 The dashboard includes:
 - Monthly Sales (2024–2025)
 - Sales by Category
