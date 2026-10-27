@@ -21,7 +21,9 @@ The dashboard includes:
 Interactive slicers allow users to filter the dashboard by year, month, and region.
 
 ## Key Insights
-*To be completed after analyzing the results and validating the figures.*
+- **Sales performance:** Compare total sales across product categories to identify the strongest-performing category.
+- **Regional performance:** Compare sales across regions to identify where the business generates the most revenue.
+- **Profitability:** Compare profit across product categories to understand which categories contribute most to profit.
 
 ## Skills Demonstrated
 - Data summarization and analysis
